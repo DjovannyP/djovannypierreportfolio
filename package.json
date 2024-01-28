@@ -1,0 +1,14 @@
+{
+  "name": "djovanny_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Porfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --watch scss/ -o dist/css/ --recursive"
+  },
+  "author": "Djovanny PIERRE",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
