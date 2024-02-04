@@ -44,8 +44,17 @@
         .portrait {
             background: url('../img/djovanny_small.jpg');
             width: 150px;
-            height: 150px  ;
+            height: 150px ;
         }
+    }
+    .about-info {
+        grid-template-areas: 'bio-img'
+        'bio'
+        'job1'
+        'job2'
+        'job3';
+
+        grid-template-columns: 1fr;
     }
 }
 // Smartphones
