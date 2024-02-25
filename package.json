@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Responsive Porfolio",
   "main": "index.js",
-  "homepage": "https://djovannyp.github.io/djovanny_portfolio/",
+  "homepage": "https://djovannyp.github.io/djovannypierreportfolio/",
   "scripts": {
     "sass": "node-sass --watch scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
